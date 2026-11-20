@@ -35,3 +35,171 @@
 2026-11-19 18:46:11,251 | ERROR | Operación 11 falló: La reserva ya está cancelada.
 2026-11-19 18:46:11,251 | INFO | Operación 11 finalizada
 2026-11-19 18:46:11,252 | INFO | ===== FIN DE LA SIMULACIÓN =====
+2026-11-19 19:26:24,399 | INFO | ===== INICIO DE LA SIMULACIÓN =====
+2026-11-19 19:26:24,400 | INFO | Operación 1 exitosa: Registrar cliente válido
+2026-11-19 19:26:24,400 | INFO | Operación 1 finalizada
+2026-11-19 19:26:24,401 | ERROR | Operación 2 falló: Correo inválido: 'correo-malo'.
+2026-11-19 19:26:24,401 | INFO | Operación 2 finalizada
+2026-11-19 19:26:24,401 | ERROR | Operación 3 falló: Teléfono inválido: '12ab'. Debe tener entre 7 y 10 dígitos.
+2026-11-19 19:26:24,401 | INFO | Operación 3 finalizada
+2026-11-19 19:26:24,401 | INFO | Operación 4 exitosa: Crear sala válida
+2026-11-19 19:26:24,401 | INFO | Operación 4 finalizada
+2026-11-19 19:26:24,402 | INFO | Operación 5 exitosa: Crear alquiler de equipo válido
+2026-11-19 19:26:24,402 | INFO | Operación 5 finalizada
+2026-11-19 19:26:24,402 | ERROR | Operación 6 falló: Tarifa inválida: '-500'. Debe ser un número mayor que 0.
+2026-11-19 19:26:24,402 | INFO | Operación 6 finalizada
+2026-11-19 19:26:24,402 | INFO | Operación 7 exitosa: Crear asesoría válida
+2026-11-19 19:26:24,402 | INFO | Operación 7 finalizada
+2026-11-19 19:26:24,403 | INFO | Reserva confirmada: Ana Pérez -> Sala Ejecutiva (3h) [confirmada]
+2026-11-19 19:26:24,403 | INFO | Reserva procesada. Costo final: $178500.0
+2026-11-19 19:26:24,403 | INFO | Intento de procesamiento finalizado (estado: confirmada)
+2026-11-19 19:26:24,403 | INFO | Operación 8 exitosa: Reserva exitosa de sala
+2026-11-19 19:26:24,403 | INFO | Operación 8 finalizada
+2026-11-19 19:26:24,403 | ERROR | Operación 9 falló: No se pudo crear la reserva: Las asesorías duran entre 1 y 4 horas.
+2026-11-19 19:26:24,403 | INFO | Operación 9 finalizada
+2026-11-19 19:26:24,404 | ERROR | Operación 10 falló: El servicio 'Portátil Pro' no está disponible.
+2026-11-19 19:26:24,404 | INFO | Operación 10 finalizada
+2026-11-19 19:26:24,404 | INFO | Reserva cancelada: Ana Pérez -> Sala Ejecutiva (3h) [cancelada]
+2026-11-19 19:26:24,404 | ERROR | Operación 11 falló: La reserva ya está cancelada.
+2026-11-19 19:26:24,404 | INFO | Operación 11 finalizada
+2026-11-19 19:26:24,404 | INFO | ===== FIN DE LA SIMULACIÓN =====
+2026-11-19 22:29:45,767 | INFO | ===== INICIO DE LA SIMULACIÓN =====
+2026-11-19 22:29:45,775 | INFO | Operación 1 exitosa: Registrar cliente válido
+2026-11-19 22:29:45,775 | INFO | Operación 1 finalizada
+2026-11-19 22:29:45,775 | ERROR | Operación 2 falló: Correo inválido: 'correo-malo'.
+2026-11-19 22:29:45,782 | INFO | Operación 2 finalizada
+2026-11-19 22:29:45,783 | ERROR | Operación 3 falló: Teléfono inválido: '12ab'. Debe tener entre 7 y 10 dígitos.
+2026-11-19 22:29:45,790 | INFO | Operación 3 finalizada
+2026-11-19 22:29:45,824 | INFO | Operación 4 exitosa: Crear sala válida
+2026-11-19 22:29:45,892 | INFO | Operación 4 finalizada
+2026-11-19 22:29:45,948 | INFO | Operación 5 exitosa: Crear alquiler de equipo válido
+2026-11-19 22:29:45,957 | INFO | Operación 5 finalizada
+2026-11-19 22:29:46,121 | ERROR | Operación 6 falló: Tarifa inválida: '-500'. Debe ser un número mayor que 0.
+2026-11-19 22:29:46,373 | INFO | Operación 6 finalizada
+2026-11-19 22:29:46,374 | INFO | Operación 7 exitosa: Crear asesoría válida
+2026-11-19 22:29:46,374 | INFO | Operación 7 finalizada
+2026-11-19 22:29:46,374 | INFO | Reserva confirmada: Ana Pérez -> Sala Ejecutiva (3h) [confirmada]
+2026-11-19 22:29:46,375 | INFO | Reserva procesada. Costo final: $178500.0
+2026-11-19 22:29:46,375 | INFO | Intento de procesamiento finalizado (estado: confirmada)
+2026-11-19 22:29:46,376 | INFO | Operación 8 exitosa: Reserva exitosa de sala
+2026-11-19 22:29:46,509 | INFO | Operación 8 finalizada
+2026-11-19 22:29:46,552 | ERROR | Operación 9 falló: No se pudo crear la reserva: Las asesorías duran entre 1 y 4 horas.
+2026-11-19 22:29:46,553 | INFO | Operación 9 finalizada
+2026-11-19 22:29:46,553 | ERROR | Operación 10 falló: El servicio 'Portátil Pro' no está disponible.
+2026-11-19 22:29:46,553 | INFO | Operación 10 finalizada
+2026-11-19 22:29:46,553 | INFO | Reserva cancelada: Ana Pérez -> Sala Ejecutiva (3h) [cancelada]
+2026-11-19 22:29:46,553 | ERROR | Operación 11 falló: La reserva ya está cancelada.
+2026-11-19 22:29:46,553 | INFO | Operación 11 finalizada
+2026-11-19 22:29:46,554 | INFO | ===== FIN DE LA SIMULACIÓN =====
+2026-11-19 22:33:47,722 | INFO | ===== INICIO DE LA SIMULACIÓN =====
+2026-11-19 22:33:47,722 | INFO | Operación 1 exitosa: Registrar cliente válido
+2026-11-19 22:33:47,722 | INFO | Operación 1 finalizada
+2026-11-19 22:33:47,723 | ERROR | Operación 2 falló: Correo inválido: 'correo-malo'.
+2026-11-19 22:33:47,723 | INFO | Operación 2 finalizada
+2026-11-19 22:33:47,723 | ERROR | Operación 3 falló: Teléfono inválido: '12ab'. Debe tener entre 7 y 10 dígitos.
+2026-11-19 22:33:47,723 | INFO | Operación 3 finalizada
+2026-11-19 22:33:47,723 | INFO | Operación 4 exitosa: Crear sala válida
+2026-11-19 22:33:47,723 | INFO | Operación 4 finalizada
+2026-11-19 22:33:47,723 | INFO | Operación 5 exitosa: Crear alquiler de equipo válido
+2026-11-19 22:33:47,723 | INFO | Operación 5 finalizada
+2026-11-19 22:33:47,724 | ERROR | Operación 6 falló: Tarifa inválida: '-500'. Debe ser un número mayor que 0.
+2026-11-19 22:33:47,724 | INFO | Operación 6 finalizada
+2026-11-19 22:33:47,724 | INFO | Operación 7 exitosa: Crear asesoría válida
+2026-11-19 22:33:47,724 | INFO | Operación 7 finalizada
+2026-11-19 22:33:47,724 | INFO | Reserva confirmada: Ana Pérez -> Sala Ejecutiva (3h) [confirmada]
+2026-11-19 22:33:47,726 | INFO | Reserva procesada. Costo final: $178500.0
+2026-11-19 22:33:47,726 | INFO | Intento de procesamiento finalizado (estado: confirmada)
+2026-11-19 22:33:47,726 | INFO | Operación 8 exitosa: Reserva exitosa de sala
+2026-11-19 22:33:47,726 | INFO | Operación 8 finalizada
+2026-11-19 22:33:47,726 | ERROR | Operación 9 falló: No se pudo crear la reserva: Las asesorías duran entre 1 y 4 horas.
+2026-11-19 22:33:47,726 | INFO | Operación 9 finalizada
+2026-11-19 22:33:47,726 | ERROR | Operación 10 falló: El servicio 'Portátil Pro' no está disponible.
+2026-11-19 22:33:47,726 | INFO | Operación 10 finalizada
+2026-11-19 22:33:47,726 | INFO | Reserva cancelada: Ana Pérez -> Sala Ejecutiva (3h) [cancelada]
+2026-11-19 22:33:47,726 | ERROR | Operación 11 falló: La reserva ya está cancelada.
+2026-11-19 22:33:47,727 | INFO | Operación 11 finalizada
+2026-11-19 22:33:47,727 | INFO | ===== FIN DE LA SIMULACIÓN =====
+2026-11-19 22:35:32,533 | INFO | ===== INICIO DE LA SIMULACIÓN =====
+2026-11-19 22:35:32,534 | INFO | Operación 1 exitosa: Registrar cliente válido
+2026-11-19 22:35:32,534 | INFO | Operación 1 finalizada
+2026-11-19 22:35:32,534 | ERROR | Operación 2 falló: Correo inválido: 'correo-malo'.
+2026-11-19 22:35:32,534 | INFO | Operación 2 finalizada
+2026-11-19 22:35:32,535 | ERROR | Operación 3 falló: Teléfono inválido: '12ab'. Debe tener entre 7 y 10 dígitos.
+2026-11-19 22:35:32,535 | INFO | Operación 3 finalizada
+2026-11-19 22:35:32,535 | INFO | Operación 4 exitosa: Crear sala válida
+2026-11-19 22:35:32,535 | INFO | Operación 4 finalizada
+2026-11-19 22:35:32,535 | INFO | Operación 5 exitosa: Crear alquiler de equipo válido
+2026-11-19 22:35:32,535 | INFO | Operación 5 finalizada
+2026-11-19 22:35:32,536 | ERROR | Operación 6 falló: Tarifa inválida: '-500'. Debe ser un número mayor que 0.
+2026-11-19 22:35:32,536 | INFO | Operación 6 finalizada
+2026-11-19 22:35:32,536 | INFO | Operación 7 exitosa: Crear asesoría válida
+2026-11-19 22:35:32,536 | INFO | Operación 7 finalizada
+2026-11-19 22:35:32,536 | INFO | Reserva confirmada: Ana Pérez -> Sala Ejecutiva (3h) [confirmada]
+2026-11-19 22:35:32,537 | INFO | Reserva procesada. Costo final: $178500.0
+2026-11-19 22:35:32,537 | INFO | Intento de procesamiento finalizado (estado: confirmada)
+2026-11-19 22:35:32,537 | INFO | Operación 8 exitosa: Reserva exitosa de sala
+2026-11-19 22:35:32,537 | INFO | Operación 8 finalizada
+2026-11-19 22:35:32,537 | ERROR | Operación 9 falló: No se pudo crear la reserva: Las asesorías duran entre 1 y 4 horas.
+2026-11-19 22:35:32,537 | INFO | Operación 9 finalizada
+2026-11-19 22:35:32,537 | ERROR | Operación 10 falló: El servicio 'Portátil Pro' no está disponible.
+2026-11-19 22:35:32,537 | INFO | Operación 10 finalizada
+2026-11-19 22:35:32,538 | INFO | Reserva cancelada: Ana Pérez -> Sala Ejecutiva (3h) [cancelada]
+2026-11-19 22:35:32,538 | ERROR | Operación 11 falló: La reserva ya está cancelada.
+2026-11-19 22:35:32,538 | INFO | Operación 11 finalizada
+2026-11-19 22:35:32,538 | INFO | ===== FIN DE LA SIMULACIÓN =====
+2026-11-19 22:40:53,435 | INFO | ===== INICIO DE LA SIMULACIÓN =====
+2026-11-19 22:40:53,436 | INFO | Operación 1 exitosa: Registrar cliente válido
+2026-11-19 22:40:53,436 | INFO | Operación 1 finalizada
+2026-11-19 22:40:53,436 | ERROR | Operación 2 falló: Correo inválido: 'correo-malo'.
+2026-11-19 22:40:53,436 | INFO | Operación 2 finalizada
+2026-11-19 22:40:53,436 | ERROR | Operación 3 falló: Teléfono inválido: '12ab'. Debe tener entre 7 y 10 dígitos.
+2026-11-19 22:40:53,436 | INFO | Operación 3 finalizada
+2026-11-19 22:40:53,436 | INFO | Operación 4 exitosa: Crear sala válida
+2026-11-19 22:40:53,436 | INFO | Operación 4 finalizada
+2026-11-19 22:40:53,436 | INFO | Operación 5 exitosa: Crear alquiler de equipo válido
+2026-11-19 22:40:53,436 | INFO | Operación 5 finalizada
+2026-11-19 22:40:53,436 | ERROR | Operación 6 falló: Tarifa inválida: '-500'. Debe ser un número mayor que 0.
+2026-11-19 22:40:53,436 | INFO | Operación 6 finalizada
+2026-11-19 22:40:53,436 | INFO | Operación 7 exitosa: Crear asesoría válida
+2026-11-19 22:40:53,436 | INFO | Operación 7 finalizada
+2026-11-19 22:40:53,436 | INFO | Reserva confirmada: Ana Pérez -> Sala Ejecutiva (3h) [confirmada]
+2026-11-19 22:40:53,437 | INFO | Reserva procesada. Costo final: $178500.0
+2026-11-19 22:40:53,437 | INFO | Intento de procesamiento finalizado (estado: confirmada)
+2026-11-19 22:40:53,437 | INFO | Operación 8 exitosa: Reserva exitosa de sala
+2026-11-19 22:40:53,437 | INFO | Operación 8 finalizada
+2026-11-19 22:40:53,437 | ERROR | Operación 9 falló: No se pudo crear la reserva: Las asesorías duran entre 1 y 4 horas.
+2026-11-19 22:40:53,437 | INFO | Operación 9 finalizada
+2026-11-19 22:40:53,437 | ERROR | Operación 10 falló: El servicio 'Portátil Pro' no está disponible.
+2026-11-19 22:40:53,437 | INFO | Operación 10 finalizada
+2026-11-19 22:40:53,437 | INFO | Reserva cancelada: Ana Pérez -> Sala Ejecutiva (3h) [cancelada]
+2026-11-19 22:40:53,437 | ERROR | Operación 11 falló: La reserva ya está cancelada.
+2026-11-19 22:40:53,437 | INFO | Operación 11 finalizada
+2026-11-19 22:40:53,438 | INFO | ===== FIN DE LA SIMULACIÓN =====
+2026-11-19 22:42:06,926 | INFO | ===== INICIO DE LA SIMULACIÓN =====
+2026-11-19 22:42:06,927 | INFO | Operación 1 exitosa: Registrar cliente válido
+2026-11-19 22:42:06,927 | INFO | Operación 1 finalizada
+2026-11-19 22:42:06,927 | ERROR | Operación 2 falló: Correo inválido: 'correo-malo'.
+2026-11-19 22:42:06,927 | INFO | Operación 2 finalizada
+2026-11-19 22:42:06,927 | ERROR | Operación 3 falló: Teléfono inválido: '12ab'. Debe tener entre 7 y 10 dígitos.
+2026-11-19 22:42:06,927 | INFO | Operación 3 finalizada
+2026-11-19 22:42:06,928 | INFO | Operación 4 exitosa: Crear sala válida
+2026-11-19 22:42:06,928 | INFO | Operación 4 finalizada
+2026-11-19 22:42:06,928 | INFO | Operación 5 exitosa: Crear alquiler de equipo válido
+2026-11-19 22:42:06,928 | INFO | Operación 5 finalizada
+2026-11-19 22:42:06,929 | ERROR | Operación 6 falló: Tarifa inválida: '-500'. Debe ser un número mayor que 0.
+2026-11-19 22:42:06,930 | INFO | Operación 6 finalizada
+2026-11-19 22:42:06,931 | INFO | Operación 7 exitosa: Crear asesoría válida
+2026-11-19 22:42:06,931 | INFO | Operación 7 finalizada
+2026-11-19 22:42:06,931 | INFO | Reserva confirmada: Ana Pérez -> Sala Ejecutiva (3h) [confirmada]
+2026-11-19 22:42:06,931 | INFO | Reserva procesada. Costo final: $178500.0
+2026-11-19 22:42:06,931 | INFO | Intento de procesamiento finalizado (estado: confirmada)
+2026-11-19 22:42:06,931 | INFO | Operación 8 exitosa: Reserva exitosa de sala
+2026-11-19 22:42:06,931 | INFO | Operación 8 finalizada
+2026-11-19 22:42:06,932 | ERROR | Operación 9 falló: No se pudo crear la reserva: Las asesorías duran entre 1 y 4 horas.
+2026-11-19 22:42:06,932 | INFO | Operación 9 finalizada
+2026-11-19 22:42:06,932 | ERROR | Operación 10 falló: El servicio 'Portátil Pro' no está disponible.
+2026-11-19 22:42:06,932 | INFO | Operación 10 finalizada
+2026-11-19 22:42:06,933 | INFO | Reserva cancelada: Ana Pérez -> Sala Ejecutiva (3h) [cancelada]
+2026-11-19 22:42:06,933 | ERROR | Operación 11 falló: La reserva ya está cancelada.
+2026-11-19 22:42:06,933 | INFO | Operación 11 finalizada
+2026-11-19 22:42:06,933 | INFO | ===== FIN DE LA SIMULACIÓN =====
